@@ -14,7 +14,7 @@ app.use(express.json());
 app.use("/valuators", valuatorRouter);
 
 app.get("/", (req, res) => {
-    res.send("evaluAIte");
+    res.send("EzyGrade");
 });
 
 async function connectDB() {
