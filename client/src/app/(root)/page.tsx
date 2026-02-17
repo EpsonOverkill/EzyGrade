@@ -11,7 +11,7 @@ export default function Home() {
         {/* Hero Section */}
         <div className="flex flex-col items-center text-center mb-16">
           <h1 className="text-6xl font-extrabold mb-4 text-gray-800 tracking-tight">
-            evalu<span className="text-blue-600">AI</span>te
+            Ezy<span className="text-blue-600">Grade</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl">
             Exam Answer Paper Valuation and Marksheet Generation using Artificial Intelligence
@@ -109,7 +109,7 @@ export default function Home() {
 
         {/* Footer */}
         <div className="mt-16 text-center text-gray-500 text-sm">
-          <p>© 2023 EzyGrade. All rights reserved.</p>
+          <p>© 2026 EzyGrade. All rights reserved.</p>
         </div>
       </div>
     </main>

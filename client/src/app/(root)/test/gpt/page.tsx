@@ -14,7 +14,7 @@ export default function Home() {
     });
 
     const completion = await openai.chat.completions.create({
-      model: "gpt-4-turbo-2024-04-09",
+      model: "gpt-4o-mini-2024-07-18",
       messages: [
         {
           role: "system",
